@@ -20,9 +20,9 @@ const val CURRENT_DEFAULT_NODE_LIST_VERSION = 21
 val defaultNodeList = listOf(
     Node(
         name = "TestNet",
-        algodAddress = "https://node-testnet.aws.algodev.network/",
+        algodAddress = "http://localhost:4001",
         algodApiKey = BuildConfig.ALGORAND_API_KEY,
-        indexerAddress = "https://indexer-testnet.aws.algodev.network/",
+        indexerAddress = "http://localhost:8980",
         indexerApiKey = BuildConfig.INDEXER_API_KEY,
         isActive = true,
         isAddedDefault = true,
@@ -30,9 +30,9 @@ val defaultNodeList = listOf(
     ),
     Node(
         name = "MainNet",
-        algodAddress = "https://node-mainnet.aws.algodev.network/",
+        algodAddress = "http://localhost:4001",
         algodApiKey = BuildConfig.ALGORAND_API_KEY,
-        indexerAddress = "https://indexer-mainnet.aws.algodev.network/",
+        indexerAddress = "http://localhost:8980",
         indexerApiKey = BuildConfig.INDEXER_API_KEY,
         isActive = false,
         isAddedDefault = true,
