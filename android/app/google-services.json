@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "867338721057",
+      "project_id": "jasiri-6ec51",
+      "storage_bucket": "jasiri-6ec51.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:867338721057:android:c9fa43870671b79f53d060",
+          "android_client_info": {
+            "package_name": "com.algorand.android"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "867338721057-f976rf79vqe0um0c263q4er9om05ptr7.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCoFmQ9twg5eYHif9xrmtPQdQo5tNV7INQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "867338721057-f976rf79vqe0um0c263q4er9om05ptr7.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
